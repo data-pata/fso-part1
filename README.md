@@ -2,6 +2,17 @@
 
 This repo contains the finished solution for part 1.
 
-See below or commit history for solutions to individual exercises in the set.
-
-- 1.1: course information, step1 8a184f02401b0a325ec330dd1918041638d8d982
+- [x] 1
+- [x] 2
+- [ ] 3
+- [ ] 4
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+- [ ] 10
+- [ ] 11
+- [ ] 12
+- [ ] 13
+- [ ] 14
